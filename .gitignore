@@ -1,0 +1,4 @@
+# Aqui se pone todas las carpetas que se ignoran
+# este archivo si tiene que ser agregada al git, con git add
+CarpetaIngorada/
+a.config
